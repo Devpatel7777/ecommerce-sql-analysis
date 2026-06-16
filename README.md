@@ -1,8 +1,6 @@
 #  E-Commerce Sales & Customer Analysis
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![Database](https://img.shields.io/badge/Database-Relational-orange?style=for-the-badge&logo=databricks&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
 
 > A complete end-to-end SQL project simulating a real-world e-commerce platform — covering database design, business data modelling, and advanced analytical queries for sales, customer, and operational reporting.
 
